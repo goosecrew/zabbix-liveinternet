@@ -2,11 +2,11 @@
 
 Параметры запуска такие:
 
-  обязательные:
-   {irr,jobru,ru} # аккаунт
-   {last-day,last-week} # действие
-   {get-diff,get-absolute} # режим
-   --password PASSWORD # пароль от аккаунта
+обязательные:
+  *{irr,jobru,ru} # аккаунт
+  *{last-day,last-week} # действие
+  *{get-diff,get-absolute} # режим
+  *--password PASSWORD # пароль от аккаунта
   
   необязательные:
    --help # справка
