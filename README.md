@@ -3,11 +3,11 @@
 Параметры запуска такие:
 
 обязательные:
-  *{irr,jobru,ru} # аккаунт
-  *{last-day,last-week} # действие
-  *{get-diff,get-absolute} # режим
-  *--password PASSWORD # пароль от аккаунта
-  
+1. {irr,jobru,ru} # аккаунт
+2. {last-day,last-week} # действие
+3. {get-diff,get-absolute} # режим
+4. --password PASSWORD # пароль от аккаунта
+
   необязательные:
    --help # справка
    --debug # отладка, показывает стектрейсы в случае ошибок 
