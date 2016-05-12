@@ -3,6 +3,9 @@
 Параметры запуска такие:
 
 обязательные:
+
+
+
 1. {irr,jobru,ru} # аккаунт
 2. {last-day,last-week} # действие
 3. {get-diff,get-absolute} # режим
